@@ -1,3 +1,3 @@
 function redirect(){
-	location.replace("prank.html");
+	location.replace("https://dapper-shortbread-f044f2.netlify.app/");
 	}
